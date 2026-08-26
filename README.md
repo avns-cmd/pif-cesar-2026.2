@@ -1,2 +1,2 @@
 # pif-cesar-2026.2
-organizaçao das listas exercicios 
+organização das listas de exercicios 
