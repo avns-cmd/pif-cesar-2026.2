@@ -1,0 +1,1 @@
+Instruções corretas: (A), (B), (C) e (E).
